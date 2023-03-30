@@ -1,11 +1,4 @@
 /* css variables */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  /* border: 1px solid black; */
-}
-
 :root {
   --primary-Dark-cyan: hsl(185, 75%, 39%);
   --primary-Very-dark-desaturated-blue: hsl(229, 23%, 23%);
