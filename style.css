@@ -1,4 +1,11 @@
 /* css variables */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* border: 1px solid black; */
+}
+
 :root {
   --primary-Dark-cyan: hsl(185, 75%, 39%);
   --primary-Very-dark-desaturated-blue: hsl(229, 23%, 23%);
@@ -64,7 +71,7 @@ p {
 
 }
 
-.quantities {
+.rating {
 
   display: flex;
   justify-content: space-around;
@@ -74,7 +81,7 @@ p {
   border-top: 1px solid var(--secondary-grayblue);
 }
 
-.quantities h1 span {
+.numbers h1 span {
   font-size: 0.8em;
   font-weight: 400;
   color: var(--neutral-Dark-gray);
