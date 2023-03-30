@@ -18,7 +18,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### The challenge
 
-- Build out the project to the designs provided
+- Build out the project to the designs provided -To set the position of background svg is very challenging.
 
 ### Screenshot
 
@@ -60,5 +60,5 @@ ensure that all visitors to this web page are able to enjoy it!
 ## Acknowledgments
 @
 Thank you to [Abdul Khalid](https://www.frontendmentor.io/profile/0xAbdulKhalid
-) in my last challenge, your advice help in this challenhe
+) in my last challenge, your advice help in this challenge. Also when i got stuck i get inspiration from [Vishal Maurya](https://www.frontendmentor.io/profile/VishalMauryastp) thanks you all.
 I look forward to completing more in the future.
